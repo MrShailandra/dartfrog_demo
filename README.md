@@ -12,29 +12,6 @@ To run this project, follow these steps:
 
 3. Open the `pubspec.yaml` file in your project's root directory.
 
-4. Add the following dependencies to the `pubspec.yaml` file:
-
-'''yaml
-dependencies:
-  dart_frog: ^0.3.0
-  dart_jsonwebtoken: ^2.8.2
-  dartz: ^0.10.1
-  encrypt: ^5.0.1
-  mime: ^1.0.4
-  mongo_dart: ^0.9.1
-  uuid: ^3.0.7
-
-models:
-  path: lib/models/
-
-dev_dependencies:
-  build_runner: ^2.4.6
-  freezed: ^2.3.5
-  json_serializable: ^6.7.1
-  mocktail: ^0.3.0
-  test: ^1.19.2
-  very_good_analysis: ^5.0.0
-'''
 
 ## Usage
 
